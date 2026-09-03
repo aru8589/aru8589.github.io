@@ -19,45 +19,67 @@ redirect_from:
 ==========================Arunendu's Personal Website============================
 I work at the interface of computational chemistry, materials science, and molecular simulation, using DFT, molecular dynamics, and machine learning to understand and design functional chemical systems. My research spans catalysis and energy materials, biomolecular dynamics, and emerging quantum-computational methods.
 
+<div style="text-align:center; margin-top:40px; margin-bottom:20px;">
+  <span style="font-size:2.2em; font-weight:bold;">Education</span>
 </div>
-<a href="https://tcgcrestdtbu.ac.in/" target="_blank">
-  <img src="tcg-crest.png" alt="TCG Crest" style="max-height:100px; max-width:100%; height:auto; vertical-align:middle;">
-</a>
+
+Dr. Das received his B.Sc. in Chemistry from **University of Calcutta**, M.Sc. in Chemistry **IIEST, Shibpur**, and Ph.D. in Computational Chemistry from the **IIT Indore, Indore**, under the supervision of **Prof. Biswarup Pathak**.
+
+<div style="text-align:center; margin-top:40px; margin-bottom:20px;">
+  <span style="font-size:2.2em; font-weight:bold;">Research Areas</span>
 </div>
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+My research is focused on designing functional materials for sustainability energy conversion and emerging research on new strategy for catalysis as well as bio-enzymes simulation:
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+* **Homogeneous Catalysis:** Designing molecular catalysts and understanding reaction mechanisms for crucial chemical transformations, including O2 evolution (OER) and hydrogen evolution (HER) Reaction.
 
-**Markdown generator**
+* **Heterogeneous Catalysis:** Discovering and optimizing solid-state electrocatalysts and surfaces for the same key reactions (NRR, HER, OER, ORR, CO2RR) with an emphasis on stability and efficiency.
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+* **Energy Storage & Conversion:** Computationally screening and designing novel materials for advanced battery technologies, thermoelectric and the efficient storage of hydrogen (H2).
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+* * **Machine Learning in Catalysis:** Computationally screening and designing novel materials for advanced battery technologies, Thermoelectric and the efficient storage of hydrogen (H2).
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+* **Enzyme Dynamics:** Computationally study of the dynamics of human carbonic anhydrase IX and the inhibition of ribonuclease A, including trajectory analysis using PyEMMA, classical molecular dynamics simulation (AMBER). This experience has developed an interest in understanding the relationship between molecular structure, dynamics, and function in biological systems.
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+* **Generative AI and Quantum Computing:** Emerging AL/DL-guided Gen-AI for catalyst material discovery, water dynamics in enzyme and quantum-computational approaches for molecular and finite chemical systems.
+  
+
+---
+<div style="text-align:center; margin-top:40px; margin-bottom:20px;">
+  <span style="font-size:2.2em; font-weight:bold;">Computation-Driven Discovery</span>
+</div>
+
+
+We operate at the interface of quantum chemistry, materials science, and data science to accelerate the discovery of next-generation materials for energy applications. Our methodology is built on a multi-scale modeling framework:
+
+* We use **Density Functional Theory (DFT)** to build an atomic-level understanding of surface chemistry, oxide/oxyhydroxide layered mineral, nanocluster/nanorod, sub-atomic cluster, reaction pathways, and material properties.
+
+* These quantum-mechanical insights are integrated into **machine learning descriptors** to simulate real-world performance and identify bottlenecks, whether a catalytic cycle in energy application or bio-enzyme processes.
+
+* We also leverage **machine learning** to rapidly screen, **active learning** to find efficient material and **gen-AI** to create new proposed structure over vast chemical spaces and predict key material properties, drastically reducing the time required for discovery.
+
+This integrated computational toolkit allows us to tackle complex problems across the energy landscape, from designing selective molecular catalysts to energy storage materials, and to rationally design them from first principles.
+
+---
+<div style="text-align:center; margin-top:40px; margin-bottom:20px;">
+  <span style="font-size:2.2em; font-weight:bold;">Collaborations</span>
+</div>
+
+
+Experimental Research Collaborator's:
+
+* [**Prof. Sangeeta Kale**](https://snkalelab.wixsite.com/snkalelab), University of Pune
+
+* [**Prof. Saumi Ray**](https://www.bits-pilani.ac.in/pilani/saumi-ray/), BITS Pilani, Pilani Campus
+
+* [**Prof. M. Navaneethan**](https://www.navaneethansgroup.org/prof-m-navaneethan-s-profile), SRMIST, Chennai
+
+* [**Prof. Sukhendu Mandal**](https://www.iisertvm.ac.in/faculty/sukhendu), IISER Thiruvananthapuram
+
+---
+<div style="text-align:center; margin-top:40px; margin-bottom:20px;">
+  <span style="font-size:2.2em; font-weight:bold;">Welcome!</span>
+</div>
+
+**Interested in collaboration and passionate about data-driven approaches addressing sustainable energy research? Let’s connect!**
