@@ -19,6 +19,11 @@ redirect_from:
 ==========================Arunendu's Personal Website============================
 I work at the interface of computational chemistry, materials science, and molecular simulation, using DFT, molecular dynamics, and machine learning to understand and design functional chemical systems. My research spans catalysis and energy materials, biomolecular dynamics, and emerging quantum-computational methods.
 
+</div>
+<a href="https://tcgcrestdtbu.ac.in/" target="_blank">
+  <img src="tcg-crest.png" alt="TCG Crest" style="max-height:100px; max-width:100%; height:auto; vertical-align:middle;">
+</a>
+</div>
 For those users that need more advanced functionality, the template also supports the following popular tools:
 - [MathJax](https://www.mathjax.org/) for mathematical equations
 - [Mermaid](https://mermaid.js.org/) for diagraming
