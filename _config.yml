@@ -9,14 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Arunendu Das"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Arunendu Das"
+description              : &description "Arunendu Das's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://aru8589.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "aru8589/aru8589.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,24 +26,24 @@ author:
   avatar           : "profile.png"
   name             : "Arunendu Das"
   pronouns         : "he/him"  
-  bio              : "Computational Chemist/Quantum Computing"
+  bio              : "Computational Chemist | Material Modeling"
   location         : "Kolkata, West Bengal, India"
   employer         : "TCG-CREST"
   uri              : # URL
   email            : "arunendu.das@tcgcrest.org" 
 
   # Academic websites
-  academia         : "Computational Chemistry/Quantum Computing"
+  academia         : # url
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=vYuca4AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "0000-0002-4420-4190"
+  orcid            : "https://orcid.org/0000-0002-4420-4190"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : 
   researchgate     : # URL
-  scopus           : https://www.scopus.com/pages/search/authors?searchId=5566e901-010b-4545-b9cd-6694d6ebde31
+  scopus           : "https://www.scopus.com/pages/search/authors?searchId=5566e901-010b-4545-b9cd-6694d6ebde31"
   zotero           : # URL
 
 
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "aru8589"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "arunendu-das-456144226"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
