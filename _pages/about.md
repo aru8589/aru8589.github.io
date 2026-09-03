@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ARUNENDU DAS, Ph.D."
+title: "Welcome to my personal website. This space highlights my research activities, academic interests, and selected creative pursuits."
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,7 +13,7 @@ redirect_from:
   <span style="font-size:1.5em;">Computational Group</span><br>
   <span style="font-size:1.5em;">TCG-CREST, West Bengal, India</span>
 
-
+---
  
 
 Arunendu's Personal Website
