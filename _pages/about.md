@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Arunendu’s Research Space"
+title: "ARUNENDU DAS, Ph.D."
 author_profile: true
 redirect_from: 
   - /about/
