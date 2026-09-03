@@ -2,7 +2,7 @@
 permalink: /
 title: "Exploring Research, Science, Creativity, and Novel Ideas."
 author_profile: true
-description: "Arunendu Das is a Post-Doctoral Research Associate at TCG-CREST, Ph.D. in Computational Chemistry, experience with DFT, ab-initio molecular dynamics, and machine learning to design catalysts and materials for N2 reduction, hydrogen storage, clean energy and classical molecular dynamics simulations of biological systems"
+description: "Arunendu Das is a Post-Doctoral Research Associate at TCG-CREST, Ph.D. in Computational Chemistry, experience with DFT,ab-initio molecular dynamics, and machine learning to design catalysts and materials for N2 reduction, hydrogen storage, clean energy and classical molecular dynamics simulations of biological systems"
 redirect_from: 
   - /about/
   - /about.html
@@ -17,7 +17,7 @@ redirect_from:
 
 ---
 ==========================Arunendu's Personal Website============================
-I work at the interface of computational chemistry, materials science, and molecular simulation, using DFT, molecular dynamics, and machine learning to understand and design functional chemical systems. My research spans catalysis and energy materials, biomolecular dynamics, and emerging quantum-computational methods.
+I work at the interface of computational chemistry, materials science, and molecular simulation, using DFT, molecular dynamics, and  machine learning to understand and design functional chemical systems. My research spans catalysis and energy materials, biomolecular dynamics, and emerging quantum-computational methods.</p>
 
 <div style="text-align:center; margin-top:40px; margin-bottom:20px;">
   <span style="font-size:2.2em; font-weight:bold;">Education</span>
