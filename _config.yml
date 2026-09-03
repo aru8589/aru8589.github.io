@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Arunendu Das"
-  pronouns         : "he/him"  
+  pronouns         : #"he/him"  
   bio              : "Computational Chemist | Material Modeling"
   location         : "Kolkata, West Bengal, India"
   employer         : "TCG-CREST"
@@ -43,7 +43,7 @@ author:
   ssrn             : # URL
   pubmed           : 
   researchgate     : # URL
-  scopus           : "https://www.scopus.com/pages/search/authors?searchId=5566e901-010b-4545-b9cd-6694d6ebde31"
+  scopus           : "https://www.scopus.com/authors?searchId=5566e901-010b-4545-b9cd-6694d6ebde31"
   zotero           : # URL
 
 
