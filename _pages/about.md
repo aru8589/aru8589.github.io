@@ -11,7 +11,7 @@ redirect_from:
 <div style="text-align:center;">
   <span style="font-size:2em; font-weight:bold;">ARUNENDU DAS, Ph.D.</span><br>
   <span style="font-size:1.5em;">Postdoctoral Research Associate</span><br>
-  <span style="font-size:1.5em;">Computational Group</span><br>
+  <span style="font-size:1.5em;">BDCL, Computational Group</span><br>
   <span style="font-size:1.5em;">TCG-CREST, West Bengal, India</span>
 </div>
 
