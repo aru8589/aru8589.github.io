@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Welcome to my personal website. This space highlights my research activities, academic interests, and selected creative pursuits."
+title: "Welcome to my personal website. 
+This space highlights my research activities, academic interests, and selected creative pursuits."
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,10 +13,9 @@ redirect_from:
   <span style="font-size:1.5em;">Postdoctoral Research Associate</span><br>
   <span style="font-size:1.5em;">Computational Group</span><br>
   <span style="font-size:1.5em;">TCG-CREST, West Bengal, India</span>
+</div>
 
 ---
- 
-
 Arunendu's Personal Website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
