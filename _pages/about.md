@@ -16,7 +16,7 @@ redirect_from:
 </div>
 
 ---
-==================Arunendu's Personal Website====================
+======================Arunendu's Personal Website=========================
 I work at the interface of computational chemistry, materials science, and molecular simulation, using DFT, molecular dynamics, and machine learning to understand and design functional chemical systems. My research spans catalysis and energy materials, biomolecular dynamics, and emerging quantum-computational methods.
 
 For those users that need more advanced functionality, the template also supports the following popular tools:
