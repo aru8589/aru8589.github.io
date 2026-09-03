@@ -17,13 +17,13 @@ redirect_from:
 
 ---
 ==========================Arunendu's Personal Website============================
-I work at the interface of computational chemistry, materials science, and molecular simulation, using DFT, molecular dynamics, and  machine learning to understand and design functional chemical systems. My research spans catalysis and energy materials, biomolecular dynamics, and emerging quantum-computational methods.</p>
+I work at the interface of computational chemistry, materials science, and molecular simulation, using DFT, molecular dynamics, and  machine learning to understand and design functional chemical systems. My research spans catalysis and energy materials, biomolecular dynamics, and emerging quantum-computational methods.
 
 <div style="text-align:center; margin-top:40px; margin-bottom:20px;">
   <span style="font-size:2.2em; font-weight:bold;">Education</span>
 </div>
 
-Dr. Das received his B.Sc. in Chemistry from **University of Calcutta**, M.Sc. in Chemistry **IIEST, Shibpur**, and Ph.D. in Computational Chemistry from the **IIT Indore, Indore**, under the supervision of **Prof. Biswarup Pathak**.
+Dr. Das received his B.Sc. in Chemistry from **University of Calcutta**, M.Sc. in Chemistry **IIEST, Shibpur**, and Ph.D. in Computational Chemistry from the **IIT Indore, Indore**, under the supervision of **Prof. Biswarup Pathak**.</p>
 
 <div style="text-align:center; margin-top:40px; margin-bottom:20px;">
   <span style="font-size:2.2em; font-weight:bold;">Research Areas</span>
