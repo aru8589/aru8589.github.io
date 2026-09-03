@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my personal website. 
-This space highlights my research activities, academic interests, and selected creative pursuits."
+title: "Exploring research, science, creativity, and the ideas that inspire me."
 author_profile: true
 redirect_from: 
   - /about/
