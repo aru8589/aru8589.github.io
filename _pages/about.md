@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Postdoctoral Research Associate
-Computational Group
+Postdoctoral Research Associate/
+Computational Group/
 TCG-CREST, West Bengal, India
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
