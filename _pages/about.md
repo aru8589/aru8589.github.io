@@ -74,6 +74,7 @@ We operate at the interface of quantum chemistry, materials science, and data sc
 <div style="text-align: justify;"> * We also leverage <strong>machine learning</strong> to rapidly screen materials across vast chemical spaces, <strong>active learning</strong> to find efficient candidates, and high-throughput workflows to validate predictions.</div>
 </div>
 
+<div style="text-align: justify; margin-left: 20px; margin-right: 20px;">
 This integrated computational toolkit allows us to tackle complex problems across the energy landscape, from designing selective molecular catalysts to energy storage materials, and to rationally engineer materials with improved performance.
 </div>
 
@@ -86,6 +87,14 @@ This integrated computational toolkit allows us to tackle complex problems acros
 <div style="text-align:justify; margin-left:40px; margin-right:20px;">
   <span style="font-size:2.2em; font-weight:bold;">Experimental Research Collaborators:</span>
 </div>
+
+* [**Prof. Sangeeta Kale**](https://snkalelab.wixsite.com/snkalelab/), University of Pune
+
+* [**Prof. Saumi Ray**](https://www.bits-pilani.ac.in/pilani/saumi-ray/), BITS Pilani, Pilani Campus
+
+* [**Prof. M. Navaneethan**](https://www.navaneethansgroup.org/prof-m-navaneethan-s-profile/), SRMIST, Chennai
+
+* [**Prof. Sukhendu Mandal**](https://www.iisertvm.ac.in/faculty/sukhendu), IISER Thiruvananthapuram
 
 <div style="text-align:center; margin-top:40px; margin-bottom:20px;">
   <span style="font-size:2.2em; font-weight:bold;">Welcome!</span>
