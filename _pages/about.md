@@ -66,11 +66,11 @@ We operate at the interface of quantum chemistry, materials science, and data sc
 <div style="margin-left: 40px; margin-right: 20px;">
 
 <div style="text-align: justify;"> * We use <strong>Density Functional Theory (DFT)</strong> to build an atomic-level understanding of surface chemistry, oxide/oxyhydroxide layered minerals, nanoclusters, and active sites.
-
+</div>
 <div style="text-align: justify;"> * These quantum-mechanical insights are integrated into <strong>machine learning descriptors</strong> to simulate real-world performance and identify bottlenecks, while bridging scales from atomistic to device.
-
+</div>
 <div style="text-align: justify;"> * We also leverage <strong>machine learning</strong> to rapidly screen materials across vast chemical spaces, <strong>active learning</strong> to find efficient candidates, and high-throughput workflows to validate predictions.
-
+</div>
 </div>
 
 <div style="text-align: justify; margin-left: 20px; margin-right: 20px;">
@@ -86,13 +86,13 @@ This integrated computational toolkit allows us to tackle complex problems acros
 <strong>Experimental Research Collaborators:</strong>
 </div>
 
-* <strong><a href="(https://snkalelab.wixsite.com/snkalelab/)" style="color:light blue; text-decoration:underline;">Prof. Sangeeta Kale</a></strong>, University of Pune
+* <div style="text-align: justify;"><strong><a href="(https://snkalelab.wixsite.com/snkalelab/)" style="color:light blue; text-decoration:underline;">Prof. Sangeeta Kale</a></strong>, University of Pune
 
-* <strong><a href="(https://www.bits-pilani.ac.in/pilani/saumi-ray/)" style="color:light blue; text-decoration:underline;">Prof. Saumi Ray</a></strong>, BITS Pilani, Pilani Campus
+* <div style="text-align: justify;"><strong><a href="(https://www.bits-pilani.ac.in/pilani/saumi-ray/)" style="color:light blue; text-decoration:underline;">Prof. Saumi Ray</a></strong>, BITS Pilani, Pilani Campus
 
-* <strong><a href="(https://www.navaneethansgroup.org/prof-m-navaneethan-s-profile/)" style="color:light blue; text-decoration:underline;">Prof. M. Navaneethan</a></strong>, SRMIST, Chennai
+* <div style="text-align: justify;"><strong><a href="(https://www.navaneethansgroup.org/prof-m-navaneethan-s-profile/)" style="color:light blue; text-decoration:underline;">Prof. M. Navaneethan</a></strong>, SRMIST, Chennai
 
-* <strong><a href="(https://www.iisertvm.ac.in/faculty/sukhendu)" style="color:light blue; text-decoration:underline;">Prof. Sukhendu Mandal</a></strong>, IISER Thiruvananthapuram
+* <div style="text-align: justify;"><strong><a href="(https://www.iisertvm.ac.in/faculty/sukhendu)" style="color:light blue; text-decoration:underline;">Prof. Sukhendu Mandal</a></strong>, IISER Thiruvananthapuram
 
 
 
