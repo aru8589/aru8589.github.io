@@ -26,12 +26,7 @@ I work at the interface of computational chemistry, materials science, and molec
 </div>
 
 <div style="text-align: justify; margin-left: 20px; margin-right: 20px;">
-Dr. Das received his B.Sc. in Chemistry from <strong>University of Calcutta</strong>, M.Sc. in Chemistry from <strong>IIEST, Shibpur</strong>, and Ph.D. in Computational Chemistry from <strong>IIT Indore</strong>.
-</div>
-
-<!-- Added Prof. Biswarup Pathak link in Education section with forced blue+underline styling -->
-<div style="text-align: justify; margin-left: 20px; margin-right: 20px; margin-top: 10px;">
-Notable colleagues and mentors include: <a href="http://people.iiti.ac.in/~biswarup/index.html" style="color:blue; text-decoration:underline;"><strong>Prof. Biswarup Pathak, FNASc, FRSc</strong></a>.
+Dr. Das received his B.Sc. in Chemistry from <strong>University of Calcutta</strong>, M.Sc. in Chemistry from <strong>IIEST, Shibpur</strong>, and Ph.D. in Computational Chemistry from <strong>IIT Indore</strong> under the supervision of <a href="http://people.iiti.ac.in/~biswarup/index.html" style="color:light blue; text-decoration:underline;"><strong>Prof. Biswarup Pathak, FNASc, FRSc</strong></a>.
 </div>
 
 <div style="text-align:center; margin-top:40px; margin-bottom:20px;">
