@@ -84,7 +84,7 @@ This integrated computational toolkit allows us to tackle complex problems acros
 
 <div style="text-align: justify; margin-left: 20px; margin-right: 20px;">
 <strong>Experimental Research Collaborators:</strong>
-</div>
+
 
 * [**Prof. Sangeeta Kale**](https://snkalelab.wixsite.com/snkalelab/), University of Pune
 
@@ -93,6 +93,7 @@ This integrated computational toolkit allows us to tackle complex problems acros
 * [**Prof. M. Navaneethan**](https://www.navaneethansgroup.org/prof-m-navaneethan-s-profile/), SRMIST, Chennai
 
 * [**Prof. Sukhendu Mandal**](https://www.iisertvm.ac.in/faculty/sukhendu), IISER Thiruvananthapuram
+
 </div>
 
 <div style="text-align:center; margin-top:40px; margin-bottom:20px;">
