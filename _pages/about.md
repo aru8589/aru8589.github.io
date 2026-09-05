@@ -26,7 +26,7 @@ I work at the interface of computational chemistry, materials science, and molec
 </div>
 
 <div style="text-align: justify; margin-left: 20px; margin-right: 20px;">
-Dr. Das received his B.Sc. in Chemistry from <strong>University of Calcutta</strong>, M.Sc. in Chemistry from <strong>IIEST, Shibpur</strong>, and Ph.D. in Computational Chemistry from <strong>IIT Indore</strong>, under the supervision of Prof. G. Narahari Sastry, where he worked on quantum-chemical design of biologically active molecular systems and catalytic materials.
+Dr. Das received his B.Sc. in Chemistry from <strong>University of Calcutta</strong>, M.Sc. in Chemistry from <strong>IIEST, Shibpur</strong>, and Ph.D. in Computational Chemistry from <strong>IIT Indore</strong>, under the supervision of Prof. Biswarup Pathak, FNASc, FRSc; where he addresses pressing challenges of national and global relevance through advanced computational modeling and machine learning, with a focus on nanomaterials and nanoclusters, contributing to emerging areas including nanocluster catalysis, dual-ion batteries, DNA sequencing, and machine learning.
 </div>
 
 <div style="text-align:center; margin-top:40px; margin-bottom:20px;">
@@ -72,6 +72,7 @@ We operate at the interface of quantum chemistry, materials science, and data sc
 </div>
 
 <div style="text-align: justify; margin-left: 20px; margin-right: 20px;">
+
 This integrated computational toolkit allows us to tackle complex problems across the energy landscape, from designing selective molecular catalysts to energy storage materials, and to rationally engineer materials with properties optimized for real-world performance and sustainability.
 </div>
 
@@ -83,16 +84,14 @@ This integrated computational toolkit allows us to tackle complex problems acros
 <strong>Experimental Research Collaborators:</strong>
 </div>
 
+* [**Prof. Sangeeta Kale**] (https://snkalelab.wixsite.com/snkalelab), University of Pune
 
-* [**Prof. Sangeeta Kale**](https://snkalelab.wixsite.com/snkalelab), University of Pune
+* [**Prof. Saumi Ray**] (https://www.bits-pilani.ac.in/pilani/saumi-ray/), BITS Pilani, Pilani Campus
 
-* [**Prof. Saumi Ray**](https://www.bits-pilani.ac.in/pilani/saumi-ray/), BITS Pilani, Pilani Campus
+* [**Prof. M. Navaneethan**] (https://www.navaneethansgroup.org/prof-m-navaneethan-s-profile), SRMIST, Chennai
 
-* [**Prof. M. Navaneethan**](https://www.navaneethansgroup.org/prof-m-navaneethan-s-profile), SRMIST, Chennai
+* [ **Prof. Sukhendu Mandal**] (https://www.iisertvm.ac.in/faculty/sukhendu), IISER Thiruvananthapuram
 
-* [**Prof. Sukhendu Mandal**](https://www.iisertvm.ac.in/faculty/sukhendu), IISER Thiruvananthapuram
-
-</div>
 
 <div style="text-align:center; margin-top:40px; margin-bottom:20px;">
   <span style="font-size:2.2em; font-weight:bold;">Welcome!</span>
