@@ -39,17 +39,17 @@ My research is focused on designing functional materials for sustainable energy 
 
 <div style="margin-left: 40px; margin-right: 20px;">
 
-* <div style="text-align: justify;"><strong>Homogeneous Catalysis:</strong> Designing molecular catalysts and understanding reaction mechanisms for crucial chemical transformations, including O2 evolution (OER), hydrogen evolution (HER), and nitrogen reduction (NRR), with focus on earth-abundant transition metals and their coordination complexes.</div>
+<div style="text-align: justify;"><strong> * Homogeneous Catalysis:</strong> Designing molecular catalysts and understanding reaction mechanisms for crucial chemical transformations, including O2 evolution (OER), hydrogen evolution (HER), and nitrogen reduction (NRR), with focus on earth-abundant transition metals and their coordination complexes.</div>
 
-* <div style="text-align: justify;"><strong>Heterogeneous Catalysis:</strong> Discovering and optimizing solid-state electrocatalysts and surfaces for key reactions (NRR, HER, OER, ORR, CO2RR) with an emphasis on stability, efficiency, and scalability for industrial applications.</div>
+<div style="text-align: justify;"><strong> * Heterogeneous Catalysis:</strong> Discovering and optimizing solid-state electrocatalysts and surfaces for key reactions (NRR, HER, OER, ORR, CO2RR) with an emphasis on stability, efficiency, and scalability for industrial applications.</div>
 
-* <div style="text-align: justify;"><strong>Energy Storage & Conversion:</strong> Computationally screening and designing novel materials for advanced battery technologies, thermoelectric devices, and efficient storage of hydrogen (H2) for next-generation energy systems.</div>
+<div style="text-align: justify;"><strong> * Energy Storage & Conversion:</strong> Computationally screening and designing novel materials for advanced battery technologies, thermoelectric devices, and efficient storage of hydrogen (H2) for next-generation energy systems.</div>
 
-* <div style="text-align: justify;"><strong>Machine Learning in Catalysis:</strong> Applying computational screening and machine learning techniques to design novel materials and predict catalytic performance across diverse chemical spaces, enabling rapid material discovery.</div>
+<div style="text-align: justify;"><strong> * Machine Learning in Catalysis:</strong> Applying computational screening and machine learning techniques to design novel materials and predict catalytic performance across diverse chemical spaces, enabling rapid material discovery.</div>
 
-* <div style="text-align: justify;"><strong>Enzyme Dynamics:</strong> Computational study of the dynamics of human carbonic anhydrase IX and the inhibition of ribonuclease A, including trajectory analysis using PyEMMA and classical molecular dynamics simulations.</div>
+<div style="text-align: justify;"><strong> * Enzyme Dynamics:</strong> Computational study of the dynamics of human carbonic anhydrase IX and the inhibition of ribonuclease A, including trajectory analysis using PyEMMA and classical molecular dynamics simulations.</div>
 
-* <div style="text-align: justify;"><strong>Generative AI and Quantum Computing:</strong> Emerging AI/DL-guided generative AI for catalyst material discovery, water dynamics in enzymes, and quantum-computational approaches for molecular and finite-system property prediction.</div>
+<div style="text-align: justify;"><strong> * Generative AI and Quantum Computing:</strong> Emerging AI/DL-guided generative AI for catalyst material discovery, water dynamics in enzymes, and quantum-computational approaches for molecular and finite-system property prediction.</div>
 
 </div>
 
@@ -63,11 +63,11 @@ We operate at the interface of quantum chemistry, materials science, and data sc
 
 <div style="margin-left: 40px; margin-right: 20px;">
 
-* <div style="text-align: justify;">We use <strong>Density Functional Theory (DFT)</strong> to build an atomic-level understanding of surface chemistry, oxide/oxyhydroxide layered minerals, nanoclusters/nanorods, sub-atomic clusters, and reaction mechanisms that govern catalytic performance and material stability.</div>
+<div style="text-align: justify;"> * We use <strong>Density Functional Theory (DFT)</strong> to build an atomic-level understanding of surface chemistry, oxide/oxyhydroxide layered minerals, nanoclusters/nanorods, sub-atomic clusters, and reaction mechanisms that govern catalytic performance and material stability.</div>
 
-* <div style="text-align: justify;">These quantum-mechanical insights are integrated into <strong>machine learning descriptors</strong> to simulate real-world performance and identify bottlenecks, whether in a catalytic cycle for energy applications or in energy storage systems requiring optimized electronic structures.</div>
+<div style="text-align: justify;"> * These quantum-mechanical insights are integrated into <strong>machine learning descriptors</strong> to simulate real-world performance and identify bottlenecks, whether in a catalytic cycle for energy applications or in energy storage systems requiring optimized electronic structures.</div>
 
-* <div style="text-align: justify;">We also leverage <strong>machine learning</strong> to rapidly screen materials across vast chemical spaces, <strong>active learning</strong> to find efficient candidates with minimal computational overhead, and <strong>generative AI</strong> to create and propose novel structures for targeted material discovery.</div>
+<div style="text-align: justify;"> * We also leverage <strong>machine learning</strong> to rapidly screen materials across vast chemical spaces, <strong>active learning</strong> to find efficient candidates with minimal computational overhead, and <strong>generative AI</strong> to create and propose novel structures for targeted material discovery.</div>
 
 </div>
 
@@ -83,7 +83,6 @@ This integrated computational toolkit allows us to tackle complex problems acros
 <strong>Experimental Research Collaborators:</strong>
 </div>
 
-<div style="margin-left: 40px; margin-right: 20px;">
 
 * [**Prof. Sangeeta Kale**](https://snkalelab.wixsite.com/snkalelab), University of Pune
 
