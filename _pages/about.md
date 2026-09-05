@@ -2,7 +2,7 @@
 permalink: /
 title: "Exploring Research, Science, Creativity, and Novel Ideas."
 author_profile: true
-description: "Arunendu Das is a Post-Doctoral Research Associate at TCG-CREST, Ph.D. in Computational Chemistry, experience with DFT, ab-initio molecular dynamics, and machine learning to design catalytic material discovery."
+description: "Arunendu Das is a Post-Doctoral Research Associate at TCG-CREST, Ph.D. in Computational Chemistry, experience with DFT, ab-initio molecular dynamics, and machine learning to design catalytic material discovery as well as bio-enzyme simulation."
 redirect_from: 
   - /about/
   - /about.html
@@ -94,6 +94,7 @@ This integrated computational toolkit allows us to tackle complex problems acros
 
 * [**Prof. Sukhendu Mandal**](https://www.iisertvm.ac.in/faculty/sukhendu), IISER Thiruvananthapuram
 
+</div>
 
 <div style="text-align:center; margin-top:40px; margin-bottom:20px;">
   <span style="font-size:2.2em; font-weight:bold;">Welcome!</span>
