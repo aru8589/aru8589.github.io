@@ -86,14 +86,13 @@ This integrated computational toolkit allows us to tackle complex problems acros
 <strong>Experimental Research Collaborators:</strong>
 </div>
 
-  
-* [**Prof. Sangeeta Kale**](https://snkalelab.wixsite.com/snkalelab/), University of Pune
+* <strong><a href="(https://snkalelab.wixsite.com/snkalelab/)" style="color:light blue; text-decoration:underline;">Prof. Sangeeta Kale</a></strong>, University of Pune
 
-* [**Prof. Saumi Ray**](https://www.bits-pilani.ac.in/pilani/saumi-ray/), BITS Pilani, Pilani Campus
+* <strong><a href="(https://www.bits-pilani.ac.in/pilani/saumi-ray/)" style="color:light blue; text-decoration:underline;">Prof. Saumi Ray</a></strong>, BITS Pilani, Pilani Campus
 
-* [**Prof. M. Navaneethan**](https://www.navaneethansgroup.org/prof-m-navaneethan-s-profile/), SRMIST, Chennai
+* <strong><a href="(https://www.navaneethansgroup.org/prof-m-navaneethan-s-profile/)" style="color:light blue; text-decoration:underline;">Prof. M. Navaneethan</a></strong>, SRMIST, Chennai
 
-* [**Prof. Sukhendu Mandal**](https://www.iisertvm.ac.in/faculty/sukhendu), IISER Thiruvananthapuram
+* <strong><a href="(https://www.iisertvm.ac.in/faculty/sukhendu)" style="color:light blue; text-decoration:underline;">Prof. Sukhendu Mandal</a></strong>, IISER Thiruvananthapuram
 
 
 
