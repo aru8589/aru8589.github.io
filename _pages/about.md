@@ -26,7 +26,7 @@ I work at the interface of computational chemistry, materials science, and molec
 </div>
 
 <div style="text-align: justify; margin-left: 20px; margin-right: 20px;">
-Dr. Das received his B.Sc. in Chemistry from <strong>University of Calcutta</strong>, M.Sc. in Chemistry from <strong>IIEST, Shibpur</strong>, and Ph.D. in Computational Chemistry from <strong>IIT Indore</strong>, under the supervision of Prof. Biswarup Pathak, FNASc, FRSc; where he addresses pressing challenges of national and global relevance through advanced computational modeling and machine learning, with a focus on nanomaterials and nanoclusters, contributing to emerging areas including nanocluster catalysis, dual-ion batteries, DNA sequencing, and machine learning.
+Dr. Das received his B.Sc. in Chemistry from <strong>University of Calcutta</strong>, M.Sc. in Chemistry from <strong>IIEST, Shibpur</strong>, and Ph.D. in Computational Chemistry from <strong>IIT Indore</strong>, under the supervision of [**Prof. Biswarup Pathak, FNASc, FRSc**](http://people.iiti.ac.in/~biswarup/index.html); where he addresses pressing challenges of national and global relevance through advanced computational modeling and machine learning, with a focus on nanomaterials and nanoclusters, contributing to emerging areas including nanocluster catalysis, dual-ion batteries, DNA sequencing, and machine learning.
 </div>
 
 <div style="text-align:center; margin-top:40px; margin-bottom:20px;">
