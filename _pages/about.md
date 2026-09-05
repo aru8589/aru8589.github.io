@@ -2,7 +2,7 @@
 permalink: /
 title: "Exploring Research, Science, Creativity, and Novel Ideas."
 author_profile: true
-description: "Arunendu Das is a Post-Doctoral Research Associate at TCG-CREST, Ph.D. in Computational Chemistry, experience with DFT, ab-initio molecular dynamics, and machine learning to design catalysts and functional materials."
+description: "Arunendu Das is a Post-Doctoral Research Associate at TCG-CREST, Ph.D. in Computational Chemistry, experience with DFT, ab-initio molecular dynamics, and machine learning to design catalysts and functional materials for sustainable energy applications."
 redirect_from: 
   - /about/
   - /about.html
@@ -17,13 +17,13 @@ redirect_from:
 
 ---
 
-I work at the interface of computational chemistry, materials science, and molecular simulation, using DFT, molecular dynamics, and machine learning to understand and design functional chemical systems for energy applications and catalysis.
+I work at the interface of computational chemistry, materials science, and molecular simulation, using DFT, molecular dynamics, and machine learning to understand and design functional chemical systems.
 
 <div style="text-align:center; margin-top:40px; margin-bottom:20px;">
   <span style="font-size:2.2em; font-weight:bold;">Education</span>
 </div>
 
-Dr. Das received his B.Sc. in Chemistry from **University of Calcutta**, M.Sc. in Chemistry from **IIEST, Shibpur**, and Ph.D. in Computational Chemistry from **IIT Indore**, under the supervision of Prof. Rajeev Ahuja.
+Dr. Das received his B.Sc. in Chemistry from **University of Calcutta**, M.Sc. in Chemistry from **IIEST, Shibpur**, and Ph.D. in Computational Chemistry from **IIT Indore**, under the supervision of Prof. Elanganeni Geerlings.
 
 <div style="text-align:center; margin-top:40px; margin-bottom:20px;">
   <span style="font-size:2.2em; font-weight:bold;">Research Areas</span>
@@ -31,7 +31,7 @@ Dr. Das received his B.Sc. in Chemistry from **University of Calcutta**, M.Sc. i
 
 My research is focused on designing functional materials for sustainable energy conversion and emerging research on new strategies for catalysis as well as bio-enzyme simulation:
 
-* **Homogeneous Catalysis:** Designing molecular catalysts and understanding reaction mechanisms for crucial chemical transformations, including O2 evolution (OER), hydrogen evolution (HER), and nitrogen reduction (NRR) reactions.
+* **Homogeneous Catalysis:** Designing molecular catalysts and understanding reaction mechanisms for crucial chemical transformations, including O2 evolution (OER), hydrogen evolution (HER), and nitrogen reduction reaction (NRR).
 
 * **Heterogeneous Catalysis:** Discovering and optimizing solid-state electrocatalysts and surfaces for key reactions (NRR, HER, OER, ORR, CO2RR) with an emphasis on stability and efficiency.
 
@@ -41,7 +41,7 @@ My research is focused on designing functional materials for sustainable energy 
 
 * **Enzyme Dynamics:** Computational study of the dynamics of human carbonic anhydrase IX and the inhibition of ribonuclease A, including trajectory analysis using PyEMMA and classical molecular dynamics simulations.
 
-* **Generative AI and Quantum Computing:** Emerging AI/DL-guided generative AI for catalyst material discovery, water dynamics in enzymes, and quantum-computational approaches for molecular and finite chemical systems.
+* **Generative AI and Quantum Computing:** Emerging AI/DL-guided generative AI for catalyst material discovery, water dynamics in enzymes, and quantum-computational approaches for molecular and finite systems.
 
 ---
 
@@ -49,15 +49,15 @@ My research is focused on designing functional materials for sustainable energy 
   <span style="font-size:2.2em; font-weight:bold;">Computation-Driven Discovery</span>
 </div>
 
-We operate at the interface of quantum chemistry, materials science, and data science to accelerate the discovery of next-generation materials for energy applications. Our methodology is built on a multiscale computational approach:
+We operate at the interface of quantum chemistry, materials science, and data science to accelerate the discovery of next-generation materials for energy applications. Our methodology is built on a multiscale computational approach that bridges electronic-scale quantum mechanics with macroscopic material performance.
 
-* We use **Density Functional Theory (DFT)** to build an atomic-level understanding of surface chemistry, oxide/oxyhydroxide layered minerals, nanoclusters/nanorods, sub-atomic clusters, and reaction pathways for catalytic processes.
+* We use **Density Functional Theory (DFT)** to build an atomic-level understanding of surface chemistry, oxide/oxyhydroxide layered minerals, nanoclusters/nanorods, sub-atomic clusters, and reaction pathways on solid surfaces.
 
-* These quantum-mechanical insights are integrated into **machine learning descriptors** to simulate real-world performance and identify bottlenecks, whether in a catalytic cycle for energy applications or material stability.
+* These quantum-mechanical insights are integrated into **machine learning descriptors** to simulate real-world performance and identify bottlenecks, whether in a catalytic cycle for energy applications or materials discovery pipelines.
 
-* We also leverage **machine learning** to rapidly screen materials, **active learning** to find efficient candidates, and **generative AI** to create new proposed structures over vast chemical spaces and predict key material properties.
+* We also leverage **machine learning** to rapidly screen materials, **active learning** to find efficient candidates, and **generative AI** to create new proposed structures over vast chemical spaces, reducing computational cost and accelerating time-to-discovery.
 
-This integrated computational toolkit allows us to tackle complex problems across the energy landscape, from designing selective molecular catalysts to energy storage materials, and to rationally design functional materials for sustainable applications.
+This integrated computational toolkit allows us to tackle complex problems across the energy landscape, from designing selective molecular catalysts to energy storage materials, and to rationally engineer surface chemistries for enhanced catalytic performance.
 
 ---
 
