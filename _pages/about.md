@@ -40,19 +40,31 @@ I work at the interface of computational chemistry, materials science, and molec
 <div style="text-align: justify; margin-left: 20px; margin-right: 20px;">
 My research is focused on designing functional materials for sustainable energy conversion and emerging research on new strategies for catalysis as well as bio-enzyme simulation:
 </div>
+<div style="text-align: justify; margin-left: 20px; margin-right: 20px;">
 
+</div>
 <div style="margin-left: 40px; margin-right: 20px;">
 
 <div style="text-align: justify;"><strong> * Homogeneous Catalysis:</strong> Designing molecular catalysts and understanding reaction mechanisms for crucial chemical transformations, including O2 evolution and small-molecule activation.</div>
+<div style="text-align: justify; margin-left: 20px; margin-right: 20px;">
 
+</div>
 <div style="text-align: justify;"><strong> * Heterogeneous Catalysis:</strong> Discovering and optimizing solid-state electrocatalysts and surfaces for key reactions (NRR, HER, OER, ORR, CO2RR) with a focus on structure-property relationships.</div>
+<div style="text-align: justify; margin-left: 20px; margin-right: 20px;">
 
+</div>
 <div style="text-align: justify;"><strong> * Energy Storage & Conversion:</strong> Computationally screening and designing novel materials for advanced battery technologies, thermoelectric devices, and catalysis-based energy solutions.</div>
+<div style="text-align: justify; margin-left: 20px; margin-right: 20px;">
 
+</div>
 <div style="text-align: justify;"><strong> * Machine Learning in Catalysis:</strong> Applying computational screening and machine learning techniques to design novel materials and predict catalytic pathways.</div>
+<div style="text-align: justify; margin-left: 20px; margin-right: 20px;">
 
+</div>
 <div style="text-align: justify;"><strong> * Enzyme Dynamics:</strong> Computational study of the dynamics of human carbonic anhydrase IX and the inhibition of ribonuclease A, including trajectoryanalysis.</div>
+<div style="text-align: justify; margin-left: 20px; margin-right: 20px;">
 
+</div>
 <div style="text-align: justify;"><strong> * Generative AI and Quantum Computing:</strong> Emerging AI/DL-guided generative AI for catalyst material discovery, water dynamics in enzymes, and quantum-computing-assisted simulations.</div>
 </div>
 
@@ -65,15 +77,24 @@ My research is focused on designing functional materials for sustainable energy 
 <div style="text-align: justify; margin-left: 20px; margin-right: 20px;">
 We operate at the interface of quantum chemistry, materials science, and data science to accelerate the discovery of next-generation materials for energy applications. Our methodology is built on a multi-scale modelling approach integrated with data-driven methods.
 </div>
+<div style="text-align: justify; margin-left: 20px; margin-right: 20px;">
+
+</div>
 
 <div style="margin-left: 40px; margin-right: 20px;">
 <div style="text-align: justify;"> * We use <strong>Density Functional Theory (DFT)</strong> to build an atomic-level understanding of surface chemistry, oxide/oxyhydroxide layered minerals, nanoclusters, and active sites.</div>
+<div style="text-align: justify; margin-left: 20px; margin-right: 20px;">
 
+</div>
 <div style="text-align: justify;"> * These quantum-mechanical insights are integrated into <strong>machine learning descriptors</strong> to simulate real-world performance and identify bottlenecks, while bridging scales from atomistic to device.</div>
+<div style="text-align: justify; margin-left: 20px; margin-right: 20px;">
 
+</div>
 <div style="text-align: justify;"> * We also leverage <strong>machine learning</strong> to rapidly screen materials across vast chemical spaces, <strong>active learning</strong> to find efficient candidates, and high-throughput workflows to validate predictions.</div>
 </div>
+<div style="text-align: justify; margin-left: 20px; margin-right: 20px;">
 
+</div>
 <div style="text-align: justify; margin-left: 20px; margin-right: 20px;">
 This integrated computational toolkit allows us to tackle complex problems across the energy landscape, from designing selective molecular catalysts to energy storage materials, and to rationally engineer materials with improved performance.
 </div>
@@ -84,8 +105,8 @@ This integrated computational toolkit allows us to tackle complex problems acros
   <span style="font-size:2.2em; font-weight:bold;">Collaborations</span>
 </div>
 
-<div style="text-align:justify; margin-left:40px; margin-right:20px;">
-  <span style="font-size:2.2em; font-weight:bold;">Experimental Research Collaborators:</span>
+<div style="text-align: justify; margin-left: 20px; margin-right: 20px;">
+Experimental Research Collaborators:
 </div>
 
 * [**Prof. Sangeeta Kale**](https://snkalelab.wixsite.com/snkalelab/), University of Pune
