@@ -87,6 +87,7 @@ This integrated computational toolkit allows us to tackle complex problems acros
 </div>
 
 <div style="text-align: justify; margin-left: 20px; margin-right: 20px; font-weight: bold; font-size: 1.1em;">
+  
 * [**Prof. Sangeeta Kale**](https://snkalelab.wixsite.com/snkalelab/), University of Pune
 
 * [**Prof. Saumi Ray**](https://www.bits-pilani.ac.in/pilani/saumi-ray/), BITS Pilani, Pilani Campus
@@ -95,7 +96,7 @@ This integrated computational toolkit allows us to tackle complex problems acros
 
 * [**Prof. Sukhendu Mandal**](https://www.iisertvm.ac.in/faculty/sukhendu), IISER Thiruvananthapuram
 
-
+</div>
 
 <div style="text-align:center; margin-top:40px; margin-bottom:20px;">
   <span style="font-size:2.2em; font-weight:bold;">Welcome!</span>
