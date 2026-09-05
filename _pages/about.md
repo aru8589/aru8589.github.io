@@ -82,7 +82,9 @@ This integrated computational toolkit allows us to tackle complex problems acros
   <span style="font-size:2.2em; font-weight:bold;">Collaborations</span>
 </div>
 
-Experimental Research Collaborators:
+<div style="text-align:justify; margin-top:40px; margin-bottom:20px;">
+  <span style="font-size:2.2em; font-weight:bold;">Experimental Research Collaborators:</span>
+
 
 * [**Prof. Sangeeta Kale**](https://snkalelab.wixsite.com/snkalelab/), University of Pune
 
@@ -92,7 +94,7 @@ Experimental Research Collaborators:
 
 * [**Prof. Sukhendu Mandal**](https://www.iisertvm.ac.in/faculty/sukhendu), IISER Thiruvananthapuram
 
-
+</div>
 ---
 <div style="text-align:center; margin-top:40px; margin-bottom:20px;">
   <span style="font-size:2.2em; font-weight:bold;">Welcome!</span>
