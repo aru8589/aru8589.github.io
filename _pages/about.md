@@ -72,20 +72,19 @@ We operate at the interface of quantum chemistry, materials science, and data sc
 
 <div style="text-align: justify;"> * These quantum-mechanical insights are integrated into <strong>machine learning descriptors</strong> to simulate real-world performance and identify bottlenecks, while bridging scales from atomistic to device.
 
-
 <div style="text-align: justify;"> * We also leverage <strong>machine learning</strong> to rapidly screen materials across vast chemical spaces, <strong>active learning</strong> to find efficient candidates, and high-throughput workflows to validate predictions.
 
-
 <div style="text-align: justify; margin-left: 20px; margin-right: 20px;">
-
 This integrated computational toolkit allows us to tackle complex problems across the energy landscape, from designing selective molecular catalysts to energy storage materials, and to rationally engineer materials with improved performance.
 </div>
+
+---
 
 <div style="text-align:center; margin-top:40px; margin-bottom:20px;">
   <span style="font-size:2.2em; font-weight:bold;">Collaborations</span>
 </div>
 
-<div style="text-align:justify; margin-top:40px; margin-bottom:20px;">
+<div style="text-align:justify; margin-left:40px; margin-right:20px;">
   <span style="font-size:2.2em; font-weight:bold;">Experimental Research Collaborators:</span>
 </div>
 
