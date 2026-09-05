@@ -39,6 +39,7 @@ I work at the interface of computational chemistry, materials science, and molec
 
 <div style="text-align: justify; margin-left: 20px; margin-right: 20px;">
 My research is focused on designing functional materials for sustainable energy conversion and emerging research on new strategies for catalysis as well as bio-enzyme simulation:
+</div>
 
 <div style="margin-left: 40px; margin-right: 20px;">
 
@@ -63,13 +64,14 @@ My research is focused on designing functional materials for sustainable energy 
 
 <div style="text-align: justify; margin-left: 20px; margin-right: 20px;">
 We operate at the interface of quantum chemistry, materials science, and data science to accelerate the discovery of next-generation materials for energy applications. Our methodology is built on a multi-scale modelling approach integrated with data-driven methods.
+</div>
 
 <div style="margin-left: 40px; margin-right: 20px;">
-<div style="text-align: justify;"> * We use <strong>Density Functional Theory (DFT)</strong> to build an atomic-level understanding of surface chemistry, oxide/oxyhydroxide layered minerals, nanoclusters, and active sites.
+<div style="text-align: justify;"> * We use <strong>Density Functional Theory (DFT)</strong> to build an atomic-level understanding of surface chemistry, oxide/oxyhydroxide layered minerals, nanoclusters, and active sites.</div>
 
-<div style="text-align: justify;"> * These quantum-mechanical insights are integrated into <strong>machine learning descriptors</strong> to simulate real-world performance and identify bottlenecks, while bridging scales from atomistic to device.
+<div style="text-align: justify;"> * These quantum-mechanical insights are integrated into <strong>machine learning descriptors</strong> to simulate real-world performance and identify bottlenecks, while bridging scales from atomistic to device.</div>
 
-<div style="text-align: justify;"> * We also leverage <strong>machine learning</strong> to rapidly screen materials across vast chemical spaces, <strong>active learning</strong> to find efficient candidates, and high-throughput workflows to validate predictions.
+<div style="text-align: justify;"> * We also leverage <strong>machine learning</strong> to rapidly screen materials across vast chemical spaces, <strong>active learning</strong> to find efficient candidates, and high-throughput workflows to validate predictions.</div>
 </div>
 
 This integrated computational toolkit allows us to tackle complex problems across the energy landscape, from designing selective molecular catalysts to energy storage materials, and to rationally engineer materials with improved performance.
