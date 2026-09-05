@@ -63,11 +63,14 @@ We operate at the interface of quantum chemistry, materials science, and data sc
 
 <div style="margin-left: 40px; margin-right: 20px;">
 
-<div style="text-align: justify;"> * We use <strong>Density Functional Theory (DFT)</strong> to build an atomic-level understanding of surface chemistry, oxide/oxyhydroxide layered minerals, nanoclusters/nanorods, sub-atomic clusters, and reaction mechanisms that govern catalytic performance and material stability.</div>
+<div style="text-align: justify;"> * We use <strong>Density Functional Theory (DFT)</strong> to build an atomic-level understanding of surface chemistry, oxide/oxyhydroxide layered minerals, nanoclusters/nanorods, sub-atomic clusters, and reaction mechanisms that govern catalytic performance and material stability.
+</div>
 
-<div style="text-align: justify;"> * These quantum-mechanical insights are integrated into <strong>machine learning descriptors</strong> to simulate real-world performance and identify bottlenecks, whether in a catalytic cycle for energy applications or in energy storage systems requiring optimized electronic structures.</div>
+<div style="text-align: justify;"> * These quantum-mechanical insights are integrated into <strong>machine learning descriptors</strong> to simulate real-world performance and identify bottlenecks, whether in a catalytic cycle for energy applications or in energy storage systems requiring optimized electronic structures.
+</div>
 
-<div style="text-align: justify;"> * We also leverage <strong>machine learning</strong> to rapidly screen materials across vast chemical spaces, <strong>active learning</strong> to find efficient candidates with minimal computational overhead, and <strong>generative AI</strong> to create and propose novel structures for targeted material discovery.</div>
+<div style="text-align: justify;"> * We also leverage <strong>machine learning</strong> to rapidly screen materials across vast chemical spaces, <strong>active learning</strong> to find efficient candidates with minimal computational overhead, and <strong>generative AI</strong> to create and propose novel structures for targeted material discovery.
+</div>
 
 </div>
 
@@ -84,13 +87,13 @@ This integrated computational toolkit allows us to tackle complex problems acros
 <strong>Experimental Research Collaborators:</strong>
 </div>
 
-* [**Prof. Sangeeta Kale**] (https://snkalelab.wixsite.com/snkalelab), University of Pune
+* [**Prof. Sangeeta Kale**](https://snkalelab.wixsite.com/snkalelab), University of Pune
 
-* [**Prof. Saumi Ray**] (https://www.bits-pilani.ac.in/pilani/saumi-ray/), BITS Pilani, Pilani Campus
+* [**Prof. Saumi Ray**](https://www.bits-pilani.ac.in/pilani/saumi-ray/), BITS Pilani, Pilani Campus
 
-* [**Prof. M. Navaneethan**] (https://www.navaneethansgroup.org/prof-m-navaneethan-s-profile), SRMIST, Chennai
+* [**Prof. M. Navaneethan**](https://www.navaneethansgroup.org/prof-m-navaneethan-s-profile), SRMIST, Chennai
 
-* [ **Prof. Sukhendu Mandal**] (https://www.iisertvm.ac.in/faculty/sukhendu), IISER Thiruvananthapuram
+* [ **Prof. Sukhendu Mandal**](https://www.iisertvm.ac.in/faculty/sukhendu), IISER Thiruvananthapuram
 
 
 <div style="text-align:center; margin-top:40px; margin-bottom:20px;">
