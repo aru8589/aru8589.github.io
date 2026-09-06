@@ -1,7 +1,7 @@
 ---
 title: "Organic cation (DMPI) intercalated graphite anode for high voltage next generation dual-ion batteries"
 collection: publications
-category: conferences
+category: manuscript
 permalink: /publication/2021-06-24-Organic-cation
 excerpt: 'DMPI-Intercalated Graphite Anode for High-Voltage Next-Generation Batteries.'
 date: 2021-06-24
