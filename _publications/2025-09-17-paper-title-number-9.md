@@ -6,7 +6,7 @@ permalink: /publication/2025-09-17-Effect-of-Glycosylation
 excerpt: 'Effect of Glycosylation on the Reorganization at the Active Site of Human Carbonic Anhydrase IX'
 date: 2025-09-17
 venue: 'Chem. Phys. Chem.'
-paperurl: 'doi.odoi.org/10.1002/asia.202300075'
+paperurl: ' https://doi.org/10.1002/cphc.202500573'
 citation: 'Dey, R., Sukla,K., Das, A. & Taraphder, S. (2025).&quot;Effect of Glycosylation on the Reorganization at the Active Site of Human Carbonic Anhydrase IX.&quot; <i>Chem. Phys. Chem.</i>.'
 ---
 
