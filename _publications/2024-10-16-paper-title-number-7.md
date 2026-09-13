@@ -1,9 +1,9 @@
 ---
 title: "Machine Learning Enhanced Screening of Single Atom Alloy Clusters for Nitrogen Reduction Reaction"
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: /publication/2024-10-16-Machine-Learning-Enhanced
-excerpt: 'Single atom alloy clusters for nitrogen reduction reaction using machine learning enhanced sampling'
+excerpt: 'We integrated machine learning with DFT calculations to screen single-atom alloy clusters for electrochemical N₂ reduction. The study identified promising alloy clusters by correlating structural and electronic descriptors with NRR activity and selectivity, enabling efficient catalyst discovery.'
 date: 2024-10-16
 venue: 'Appl. Mater. Interfaces'
 paperurl: 'https://doi.org/10.1021/acsami.4c12184'
