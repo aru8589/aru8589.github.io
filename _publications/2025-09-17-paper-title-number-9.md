@@ -1,12 +1,12 @@
 ---
 title: "Effect of Glycosylation on the Reorganization at the Active Site of Human Carbonic Anhydrase IX"
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: /publication/2025-09-17-Effect-of-Glycosylation
-excerpt: 'Effect of Glycosylation on the Reorganization at the Active Site of Human Carbonic Anhydrase IX'
+excerpt: 'The study uses classical molecular dynamics simulations of the catalytic domain of human carbonic anhydrase IX (HCA IX), comparing glycosylated and unglycosylated forms using the CHARMM36M and ff19SB force fields. It also demonstrates glycosylation does not simply act as a static structural modification. Instead, the glycan behaves dynamically and can communicate with the catalytic machinery through changes in the active-site water network and proton-transfer pathways.'
 date: 2025-09-17
 venue: 'Chem. Phys. Chem.'
-paperurl: ' https://doi.org/10.1002/cphc.202500573'
+paperurl: 'https://doi.org/10.1002/cphc.202500573'
 citation: 'Dey, R., Sukla,K., Das, A. & Taraphder, S. (2025).&quot;Effect of Glycosylation on the Reorganization at the Active Site of Human Carbonic Anhydrase IX.&quot; <i>Chem. Phys. Chem.</i>.'
 ---
 
