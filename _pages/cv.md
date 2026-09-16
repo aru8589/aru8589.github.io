@@ -17,10 +17,15 @@ Education
 
 Work experience
 ======
-* 2025-2026: Research Associate-I
+* 2025- : Research Associate-I
   * RISE - Research Institute of Sustainable Energy - TCG CREST
   * Duties included: Research, Guiding Scholars, Project Preparation, Outreach Activity
   * Supervisor: Dr. Bidisa Das, Associate Professor
+    
+* 2025: Post-Doctoral Research Associate
+  * SRM IST, Chennai
+  * Duties included: Research, Guiding Scholars, Outreach Activity
+  * Supervisor: Professor Navaneethan Mani
 
 * 2023-2025: Research Associate
   * Indian Institute of Technology, Kharagpur
