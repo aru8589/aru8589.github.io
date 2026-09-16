@@ -11,35 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computational Catalysis, Indian Institute of Technology Indore, 2023
+* M.Sc. in Chemistry, Indian Institute of Engineering Science and Technology, Shibpur (IIEST), 2016
+* B.Sc. in Chemistry, University Of Calcutta, 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025-2026: Research Associate-I
+  * RISE - Research Institute of Sustainable Energy - TCG CREST
+  * Duties included: Research, Guiding Scholars, Project Preparation, Outreach Activity
+  * Supervisor: Dr. Bidisa Das, Associate Professor
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023-2025: Research Associate
+  * Indian Institute of Technology, Kharagpur
+  * Duties included: Research, Guiding Scholars
+  * Supervisor: Professor Srabani Taraphder
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning (ML)
+* Density Functional Theory (DFT)
+  * VASP
+  * Quantum Espresso
+  * Gaussian
+* Classical Molecular Dynamics
+  * Ensemble Sampling
+  * Markov State Model (MSM)
+  * PyEMMA
+* Quantum Computing: Qiskit, PySCF
+* Python, Fortran, Linux, Windows
 
 Publications
 ======
