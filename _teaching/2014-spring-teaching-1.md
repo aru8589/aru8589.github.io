@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant: CH-103"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: https://academic.iiti.ac.in/app/storage/app/coursecurriculum/ttgczMYEkKrcYoQe5f789vea3A1FdBqvAj0aYBOK.pdf
+venue: "IIT Indore, Department of Chemistry"
+date: 2019-07-01
+location: "Indore, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching assistant for B.Tech. students for the course of chemistry (CH-103) during the academic years 2018-2019 in Indian Institute of Technology Indore, India. 
 
 Heading 1
 ======
