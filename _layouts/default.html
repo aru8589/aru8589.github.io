@@ -18,7 +18,7 @@ layout: compress
 
     {{ content }}
 
-    <div class="page__footer">
+    <div class="page__footer" id="scroll-reveal-footer">
       <footer>
         {% include footer/custom.html %}
         {% include footer.html %}
@@ -26,6 +26,50 @@ layout: compress
     </div>
 
     {% include scripts.html %}
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+
+        var footer = document.getElementById("scroll-reveal-footer");
+
+        if (!footer) {
+          return;
+        }
+
+        function checkFooter() {
+
+          var scrollPosition =
+            window.pageYOffset || document.documentElement.scrollTop;
+
+          var windowHeight = window.innerHeight;
+
+          var documentHeight = Math.max(
+            document.body.scrollHeight,
+            document.documentElement.scrollHeight
+          );
+
+          /*
+           * Show the footer only when the visitor
+           * is within 100px of the bottom.
+           */
+
+          if (scrollPosition + windowHeight >= documentHeight - 100) {
+            footer.classList.add("footer-visible");
+          } else {
+            footer.classList.remove("footer-visible");
+          }
+        }
+
+        window.addEventListener("scroll", checkFooter, {
+          passive: true
+        });
+
+        window.addEventListener("resize", checkFooter);
+
+        checkFooter();
+
+      });
+    </script>
 
   </body>
 </html>
