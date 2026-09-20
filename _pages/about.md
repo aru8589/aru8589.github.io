@@ -128,4 +128,13 @@ Experimental Research Collaborators:
 Interested in collaboration and passionate about data-driven approaches addressing sustainable energy research? <strong><a href="(https://scholar.google.com/citations?hl=en&user=vYuca4AAAAAJ)" style="color:light blue; text-decoration:underline;">Let's connect!</a></strong>
 </div>
 
+---
+
+<div style="text-align:center; margin-top:40px; margin-bottom:20px;">
+  <span style="font-size:2.2em; font-weight:bold;">          </span>
+</div>
+
+---
+
+
 
