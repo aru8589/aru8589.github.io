@@ -66,4 +66,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Conference Management: [ICCSE 2026](https://www.iccse-2026.com/)
