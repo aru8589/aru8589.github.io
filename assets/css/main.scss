@@ -39,34 +39,46 @@
 ;
 
 /* =========================================
-   Footer: reveal only near the bottom
+   HIDE FOOTER UNTIL BOTTOM OF PAGE
    ========================================= */
 
-.page__footer--scroll-reveal {
-  opacity: 0;
-  visibility: hidden;
+#scroll-reveal-footer {
+  opacity: 0 !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+
   transform: translateY(20px);
   transition:
     opacity 0.4s ease,
     transform 0.4s ease,
     visibility 0.4s ease;
 
-  pointer-events: none;
+  /* Make absolutely sure it cannot be seen */
+  max-height: 0;
+  overflow: hidden;
 }
 
-.page__footer--scroll-reveal.footer--visible {
-  opacity: 1;
-  visibility: visible;
+
+/* Show footer at bottom */
+
+#scroll-reveal-footer.scroll-footer-visible {
+  opacity: 1 !important;
+  visibility: visible !important;
+  pointer-events: auto !important;
+
   transform: translateY(0);
-  pointer-events: auto;
+
+  max-height: 1000px;
 }
 
 
-/* Respect users who prefer reduced motion */
+/* Reduced motion */
 
 @media (prefers-reduced-motion: reduce) {
-  .page__footer--scroll-reveal {
+
+  #scroll-reveal-footer {
     transition: none;
     transform: none;
   }
+
 }
