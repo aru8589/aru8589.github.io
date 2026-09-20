@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant: CH-103"
+title: "Course: CH-103"
 collection: teaching
 type: "Undergraduate course"
 permalink: https://academic.iiti.ac.in/app/storage/app/coursecurriculum/ttgczMYEkKrcYoQe5f789vea3A1FdBqvAj0aYBOK.pdf
