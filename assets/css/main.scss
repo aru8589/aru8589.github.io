@@ -39,7 +39,8 @@
 ;
 
 /* =========================================
-   HIDE FOOTER UNTIL BOTTOM OF PAGE
+   HIDE ENTIRE ACADEMICPAGES FOOTER
+   UNTIL USER REACHES BOTTOM
    ========================================= */
 
 #scroll-reveal-footer {
@@ -47,32 +48,36 @@
   visibility: hidden !important;
   pointer-events: none !important;
 
+  max-height: 0 !important;
+  overflow: hidden !important;
+
   transform: translateY(20px);
+
   transition:
     opacity 0.4s ease,
     transform 0.4s ease,
     visibility 0.4s ease;
-
-  /* Make absolutely sure it cannot be seen */
-  max-height: 0;
-  overflow: hidden;
 }
 
 
-/* Show footer at bottom */
+/* =========================================
+   SHOW FOOTER AT BOTTOM
+   ========================================= */
 
-#scroll-reveal-footer.scroll-footer-visible {
+#scroll-reveal-footer.footer-visible {
   opacity: 1 !important;
   visibility: visible !important;
   pointer-events: auto !important;
 
-  transform: translateY(0);
+  max-height: 1000px !important;
 
-  max-height: 1000px;
+  transform: translateY(0);
 }
 
 
-/* Reduced motion */
+/* =========================================
+   REDUCE MOTION FOR ACCESSIBILITY
+   ========================================= */
 
 @media (prefers-reduced-motion: reduce) {
 
