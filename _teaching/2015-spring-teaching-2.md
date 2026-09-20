@@ -2,7 +2,7 @@
 title: "Course: CH-153"
 collection: practical
 type: "Undergraduate course"
-permalink: [Course: CH-153](https://academic.iiti.ac.in/app/storage/app/coursecurriculum/ttgczMYEkKrcYoQe5f789vea3A1FdBqvAj0aYBOK.pdf)
+permalink: (https://academic.iiti.ac.in/app/storage/app/coursecurriculum/ttgczMYEkKrcYoQe5f789vea3A1FdBqvAj0aYBOK.pdf)
 venue: "IIT Indore, Department of Chemistry"
 date: 2019-11-01
 location: "Indore, India"
