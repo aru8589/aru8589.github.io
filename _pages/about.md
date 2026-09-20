@@ -56,7 +56,7 @@ My research is focused on designing functional materials for sustainable energy 
 <div style="text-align: justify;"><strong> * Machine Learning in Catalysis:</strong> Applying computational screening and machine learning techniques to design novel materials and predict catalytic pathways.</div>
 <div style="text-align: justify; margin-top: 20px; margin-bottom: 20px;">
 </div>
-<div style="text-align: justify;"><strong> * Enzyme Dynamics:</strong> Computational study of the dynamics of human carbonic anhydrase IX and the inhibition of ribonuclease A, including trajectoryanalysis.</div>
+<div style="text-align: justify;"><strong> * Enzyme Dynamics:</strong> Computational study of the dynamics of human carbonic anhydrase IX and the inhibition of ribonuclease A, including trajectory analysis. </div>
 <div style="text-align: justify; margin-top: 20px; margin-bottom: 20px;">
 </div>
 <div style="text-align: justify;"><strong> * Generative AI and Quantum Computing:</strong> Emerging AI/DL-guided generative AI for catalyst material discovery, water dynamics in enzymes, and quantum-computing-assisted simulations.</div>
@@ -96,19 +96,17 @@ This integrated computational toolkit allows us to tackle complex problems acros
 </div>
 
 <div style="text-align: justify; margin-left: 20px; margin-right: 20px;">
-I am interested in collaborations involving:
+Interested in collaborations involving:
 </div>
-
 * Computational chemistry: Electronic structure and atomistic simulations
 
 * Catalysis and reaction modeling: Surface chemistry, reaction mechanisms, catalytic materials
 
 * Materials modeling: Thermoelectric and functional materials
 
-* Machine learning for chemistry and materials science
+* MD Simulations & ML Screening for Enzyme Catalysis
 
 * Scientific computing: Python-based research workflows and data analysis
-
 
 <div style="text-align: justify; margin-left: 20px; margin-right: 20px;">
 Experimental Research Collaborators:
@@ -129,3 +127,5 @@ Experimental Research Collaborators:
 <div style="text-align: justify; margin-left: 20px; margin-right: 20px; font-weight: bold; font-size: 1.1em;">
 Interested in collaboration and passionate about data-driven approaches addressing sustainable energy research? <strong><a href="(https://scholar.google.com/citations?hl=en&user=vYuca4AAAAAJ)" style="color:light blue; text-decoration:underline;">Let's connect!</a></strong>
 </div>
+
+
