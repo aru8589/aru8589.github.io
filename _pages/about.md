@@ -94,17 +94,20 @@ This integrated computational toolkit allows us to tackle complex problems acros
 <div style="text-align:center; margin-top:40px; margin-bottom:20px;">
   <span style="font-size:2.2em; font-weight:bold;">Collaborations</span>
 </div>
+
+<div style="text-align: justify; margin-left: 20px; margin-right: 20px;">
 I am interested in collaborations involving:
+</div>
 
-Computational chemistry: Electronic structure and atomistic simulations
+* Computational chemistry: Electronic structure and atomistic simulations
 
-Catalysis and reaction modeling: Surface chemistry, reaction mechanisms, catalytic materials
+* Catalysis and reaction modeling: Surface chemistry, reaction mechanisms, catalytic materials
 
-Materials modeling: Thermoelectric and functional materials
+* Materials modeling: Thermoelectric and functional materials
 
-Machine learning for chemistry and materials science
+* Machine learning for chemistry and materials science
 
-Scientific computing: Python-based research workflows and data analysis
+* Scientific computing: Python-based research workflows and data analysis
 
 
 <div style="text-align: justify; margin-left: 20px; margin-right: 20px;">
