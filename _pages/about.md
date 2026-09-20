@@ -100,7 +100,7 @@ Interested in collaborations involving:
 </div>
 * Computational chemistry: Electronic structure and atomistic simulations
 
-* Catalysis and reaction modeling: Surface chemistry, reaction mechanisms, catalytic materials
+* Catalysis and reaction modeling: Reaction mechanisms, catalytic materials
 
 * Materials modeling: Thermoelectric and functional materials
 
