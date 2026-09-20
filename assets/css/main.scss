@@ -36,13 +36,37 @@
     "layout/archive",
     "layout/sidebar",
     "layout/json_cv"
-  
-    "vendor/font-awesome/fontawesome",
-    "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands"
 ;
 
-/* Justified text site-wide */
-p, li, .page__content {
-  text-align: justify;
+/* =========================================
+   Footer: reveal only near the bottom
+   ========================================= */
+
+.page__footer--scroll-reveal {
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(20px);
+  transition:
+    opacity 0.4s ease,
+    transform 0.4s ease,
+    visibility 0.4s ease;
+
+  pointer-events: none;
+}
+
+.page__footer--scroll-reveal.footer--visible {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+
+/* Respect users who prefer reduced motion */
+
+@media (prefers-reduced-motion: reduce) {
+  .page__footer--scroll-reveal {
+    transition: none;
+    transform: none;
+  }
 }
