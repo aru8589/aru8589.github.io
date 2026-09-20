@@ -36,6 +36,7 @@
     "layout/archive",
     "layout/sidebar",
     "layout/json_cv"
+  
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
@@ -44,13 +45,4 @@
 /* Justified text site-wide */
 p, li, .page__content {
   text-align: justify;
-}
-
-/* Respect users who prefer reduced motion */
-
-@media (prefers-reduced-motion: reduce) {
-  .page__footer--scroll-reveal {
-    transition: none;
-    transform: none;
-  }
 }
