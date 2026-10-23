@@ -1,6 +1,6 @@
 ---
 title: "Portfolio : Quantum-Computing-Guided Investigation of Ligand Coordination and Spin-State Effects in Iron Phthalocyanine "
-excerpt: "Description <br/><img src='/images/500x300.png'>"
+excerpt: "Description <br/><img src='/images/iron.png'>"
 collection: portfolio
 ---
 
