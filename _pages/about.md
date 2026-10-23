@@ -112,6 +112,8 @@ Interested in collaborations involving:
 Experimental Research Collaborators:
 </div>
 
+* [**Asst. Prof. Balendra Kumar**](https://in.linkedin.com/in/dr-balendra-kumar-59637050), Bhaskaracharya College of Applied Sciences
+
 * [**Prof. Sangeeta Kale**](https://snkalelab.wixsite.com/snkalelab/), University of Pune
 
 * [**Prof. Saumi Ray**](https://www.bits-pilani.ac.in/pilani/saumi-ray/), BITS Pilani, Pilani Campus
